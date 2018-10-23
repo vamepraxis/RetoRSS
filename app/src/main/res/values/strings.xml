@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Noticias</string>
+    <string name="navigation_drawer_open">Abrir menu de navegacion</string>
+    <string name="navigation_drawer_close">Cerrar menu de navegacion</string>
+    <string name="nav_header_title">Noticias</string>
+    <string name="nav_header_subtitle">Bienvenido, elige una opci\u00F3n</string>
+    <string name="nav_header_desc">Encabezado de navegacion</string>
+    <string name="action_settings">Preferencias</string>
+    <string name="search">Buscar en listado</string>
+    <string name="search_hint">Escribe titulos</string>
+
+    <string name="setting">Preferencias</string>
+    <string name="refresh">Actualizar RSS</string>
+
+    <string name="pref_agregar">Agregar fuente RSS</string>
+    <string name="pref_agregar_ok">Fuente RSS agregada correctamente</string>
+    <string name="pref_agregar_error">Ocurrio un error al agregar la fuente RSS</string>
+    <string name="pref_nombre">Nombre de la fuente</string>
+    <string name="pref_url">URL</string>
+    <string name="pref_url_error">La URL introducida no puede ser interpretada como fuente RSS</string>
+    <string name="pref_validando">Validando la fuente introducida, por favor espere&#8230;</string>
+    <string name="pref_validando_ok">Fuente leida correctamente</string>
+
+    <string name="pref_borrar">Eliminar</string>
+    <string name="pref_eliminado">Se elimino correctamente la fuente RSS</string>
+    <string name="pref_error_borrar">Ocurrio un error al borrar la fuente</string>
+    <string name="pref_multi_borrar">Se elimino m\u00E1s de una fuente</string>
+
+    <!-- Acciones menu -->
+    <string name="actualizar">Actualizando&#8230;</string>
+    <string name="clic_noticia">Mostrando noticia, por favor espere</string>
+    <!--Para cache-->
+    <string name="archivo_preferencias">com.rssaap.vame.retorss</string>
+    <string name="url_actual">url_actual</string>
+    <string name="url_cambio">cambio_url</string>
+    <string name="selected">selected</string>
+    <string name="listado">listado</string>
+    <string name="cargando_cache">Resultados obtenidos de cach\u00E9</string>
+
+    <!--Dialogos -->
+    <string name="dialog_titulo">Eliminar esta fuente</string>
+    <string name="dialog_cuerpo">Deseas eliminar esta fuente?</string>
+    <string name="dialog_aceptar">Si</string>
+    <string name="dialog_cancelar">Cancelar</string>
+    <string name="dialog_alta">Alta</string>
+</resources>
